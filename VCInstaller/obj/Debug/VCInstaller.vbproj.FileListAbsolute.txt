@@ -1,0 +1,9 @@
+C:\Users\MONSTERMC\Desktop\New folder (5)\VCInstaller\bin\Debug\VCInstaller.exe.config
+C:\Users\MONSTERMC\Desktop\New folder (5)\VCInstaller\bin\Debug\VCInstaller.exe
+C:\Users\MONSTERMC\Desktop\New folder (5)\VCInstaller\bin\Debug\VCInstaller.pdb
+C:\Users\MONSTERMC\Desktop\New folder (5)\VCInstaller\obj\Debug\frm_installer.resources
+C:\Users\MONSTERMC\Desktop\New folder (5)\VCInstaller\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (5)\VCInstaller\obj\Debug\VCInstaller.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (5)\VCInstaller\obj\Debug\VCInstaller.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (5)\VCInstaller\obj\Debug\VCInstaller.exe
+C:\Users\MONSTERMC\Desktop\New folder (5)\VCInstaller\obj\Debug\VCInstaller.pdb
